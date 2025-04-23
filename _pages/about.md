@@ -13,6 +13,8 @@ Through my academic work, I aim to contribute to our understanding of modern gov
 
 Feel free to explore my research or connect with me through my [personal blog](blog.heweitao.com) where I share more detailed thoughts on my research and life.
 
+<br> 
+
 EDUCATON
 ======
 - Ph.D in Public Administration, Harbin Institute of Technology, Jun 2021 - Now
