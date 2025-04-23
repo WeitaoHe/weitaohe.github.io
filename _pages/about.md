@@ -13,7 +13,6 @@ Through my academic work, I aim to contribute to our understanding of modern gov
 
 Feel free to explore my research or connect with me through my [personal blog](blog.heweitao.com) where I share more detailed thoughts on my research and life.
 
-
 EDUCATON
 ======
 - Ph.D in Public Administration, Harbin Institute of Technology, Jun 2021 - Now
@@ -21,7 +20,6 @@ EDUCATON
 - M.S in Finance, The University of Texas at Dallas, Aug 2019 - Sep 2020
 - B.S in Accounting, Harbin Institute of Technology, Sep 2015 - Jun 2019
 
-<br>  
 <br> 
 
 RESEARCH
