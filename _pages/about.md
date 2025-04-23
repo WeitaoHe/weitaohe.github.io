@@ -7,11 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal website. I'm Weitao He, currently pursuing a PhD in Public Administration at Harbin Institute of Technology. My research focuses on government-citizen interactions and collaborative governance, exploring how public institutions and citizens can work together effectively to address social challenges.
+Welcome to my personal website. I'm Weitao He, currently pursuing a PhD in Public Administration at Harbin Institute of Technology. My research focuses on government-citizen interactions and collaborative governance, exploring how public institutions and citizens can work together effectively to address social challenges.  
 
-Through my academic work, I aim to contribute to our understanding of modern governance frameworks and develop practical approaches to enhance public participation in administrative processes.
+Through my academic work, I aim to contribute to our understanding of modern governance frameworks and develop practical approaches to enhance public participation in administrative processes.  
 
-Feel free to explore my research or connect with me through my [personal blog](blog.heweitao.com) where I share more detailed thoughts on my research and life.
+Feel free to explore my research or connect with me through my [personal blog](blog.heweitao.com) where I share more detailed thoughts on my research and life. For a comprehensive overview of my academic background, professional experience, and research projects, you can download my resume below.  
+
+[Download Resume - English Version](https://image-hosting-walton.oss-cn-beijing.aliyuncs.com/file/Resume-en.pdf) | [简历下载 - 中文版](https://image-hosting-walton.oss-cn-beijing.aliyuncs.com/file/Resume-cn.pdf)  
 
 <br> 
 
