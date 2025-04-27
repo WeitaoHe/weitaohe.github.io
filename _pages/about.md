@@ -13,7 +13,7 @@ Through my academic work, I aim to contribute to our understanding of modern gov
 
 Feel free to explore my research or connect with me through my [personal blog](blog.heweitao.com) where I share more detailed thoughts on my research and life. For a comprehensive overview of my academic background, professional experience, and research projects, you can download my resume below.  
 
-[Download Resume - English Version](https://image-hosting-walton.oss-cn-beijing.aliyuncs.com/file/Resume-en.pdf) | [简历下载 - 中文版](https://image-hosting-walton.oss-cn-beijing.aliyuncs.com/file/Resume-cn.pdf)  
+[Download Resume - English Version](https://k00.fr/iiroh1hs) | [简历下载 - 中文版](https://k00.fr/g11cgdgv)  
 
 <br> 
 
